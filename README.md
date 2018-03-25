@@ -1,6 +1,8 @@
 Commands
 
-````
-  npm install axios
+```
+  npm install
+  
+  npm install axios --save
   
 ```
